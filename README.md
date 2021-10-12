@@ -1,4 +1,4 @@
-### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/b32ecebc-188e-4d98-857e-6eb5be4cab62.svg)](https://wakatime.com/@b32ecebc-188e-4d98-857e-6eb5be4cab62)
 
 <!--
 **mattbeatty/mattbeatty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
